@@ -1,4 +1,5 @@
 # **Lenny the burger**
+Fullstack web development, 3D rendering, physics simulations, advanced scripting.
 ### Languages:
  - Python
  - Java
