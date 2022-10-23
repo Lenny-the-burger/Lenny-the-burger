@@ -11,6 +11,8 @@ Source engine best engine<br>
 - [Jackhammer entity tool](https://github.com/Lenny-the-burger/jackhammer-entity-tool)
 - SchoolBase: web-based school administration software. Code not avilable, commercial product.
 - BellApp: (software for ringing school bells) old code and is no longer supported.
+- [3-Space 3D engine in a graphing calculator](https://www.desmos.com/calculator/tcyorolcyx)
+- [Above engine, but with more lights](https://www.desmos.com/calculator/sgj6yzt48v)
 
 More projects are in the works but are mostly too incomplete. More things will be publisized and current ones finished once I finish the current project, as I am working with a deadline and don't really have time for other things. Many minor projects are not published.
 
