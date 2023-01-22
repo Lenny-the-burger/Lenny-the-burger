@@ -14,3 +14,5 @@ Source engine best engine<br>
 - [3-Space 3D engine in a graphing calculator](https://www.desmos.com/calculator/tcyorolcyx)
 - [Above engine, but with more lights](https://www.desmos.com/calculator/sgj6yzt48v)
 - [Simple PBR lighting model](https://www.desmos.com/calculator/52wogmdffk)
+- [Ray casting engine in a grpahing calculator](https://www.desmos.com/calculator/9pena6ikij)
+- [Culling method I developed for ray tracing](https://www.desmos.com/calculator/lez3huteog)
