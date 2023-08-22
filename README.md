@@ -1,13 +1,11 @@
-# **Lenny the burger**
-3D graphics, web development, physics simulations, game scripting.
+## Hi, i'm Lenny the burger 🔦-------🔺
+I mostly do computer graphics, light transport research, sometimes web development.
 
-Source engine best engine<br>
-<a href="https://developer.valvesoftware.com/wiki/Main_Page" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Source_engine_logo_and_wordmark.svg/980px-Source_engine_logo_and_wordmark.svg.png?20130628130812" alt="source engine" width="130" height="40"/> </a> <br>
+Right now im mostly programming in c++, working on the [Kenos engine](https://github.com/Lenny-the-burger/Kenos), but I can work in almost any language, java, javascrypt, lua, really anything. I know Directx11 fairly well, and am very familiar with the source engine.
 
 ## Projects
 - [Jackhammer entity tool](https://github.com/Lenny-the-burger/jackhammer-entity-tool)
-- SchoolBase: web-based school administration software. Code not avilable, commercial product.
-- [3-Space 3D engine in a graphing calculator](https://www.desmos.com/calculator/tcyorolcyx)
-- [Above engine, but with more lights](https://www.desmos.com/calculator/sgj6yzt48v)
+- [Basic 3D renderer in a graphing calculator](https://www.desmos.com/calculator/sgj6yzt48v)
 - [Ray casting engine in a graphing calculator](https://www.desmos.com/calculator/9pena6ikij)
 - [Culling method I developed for ray tracing](https://www.desmos.com/calculator/lez3huteog)
+- [Kenos, a Directx11 hybrid rendering engine (in progress)](https://github.com/Lenny-the-burger/Kenos)
