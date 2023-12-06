@@ -9,3 +9,4 @@ Right now im mostly programming in c++, working on the [Kenos engine](https://gi
 - [Ray casting engine in a graphing calculator](https://www.desmos.com/calculator/9pena6ikij)
 - [Culling method I developed for ray tracing](https://www.desmos.com/calculator/lez3huteog)
 - [Kenos, a Directx11 hybrid rendering engine (in progress)](https://github.com/Lenny-the-burger/Kenos)
+- [Tech demo of a statistical ray tracing method (bit outdated)](https://www.desmos.com/calculator/vgunkhtc7g)
