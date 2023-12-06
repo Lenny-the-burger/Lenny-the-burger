@@ -1,5 +1,5 @@
 ## Hi, i'm Lenny the burger 🔦-------🔺
-I mostly do computer graphics, light transport research, sometimes web development.
+I mostly do computer graphics, light transport research, and some other miscellaneous things.
 
 Right now im mostly programming in c++, working on the [Kenos engine](https://github.com/Lenny-the-burger/Kenos), but I can work in almost any language, java, javascrypt, lua, really anything. I know Directx11 fairly well, and am very familiar with the source engine.
 
