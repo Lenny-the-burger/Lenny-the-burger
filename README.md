@@ -11,3 +11,4 @@ Currently an engine/graphics programmer @Orbifold studios on Half-Life 2: RTX.
 - [Kenos, a Directx11 hybrid rendering engine](https://github.com/Lenny-the-burger/Kenos)
 - [Tech demo of a statistical ray tracing method](https://www.desmos.com/calculator/vgunkhtc7g)
 - [Tech demo of the same method as above, but with refracted caustics](https://www.desmos.com/calculator/e5qpngkyci) [(Desmos 2023 annual art contest winner, 19+ category)](https://www.desmos.com/art)
+- [Text based game engine](https://github.com/Lenny-the-burger/text-render-base)
